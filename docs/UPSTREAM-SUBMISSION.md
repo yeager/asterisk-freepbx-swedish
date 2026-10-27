@@ -9,6 +9,7 @@ När den utfästelsen finns kan en GitHub-issue hos `asterisk/asterisk` skapas m
 1. länkar till Anton- eller Louise-arkivet och dess SHA-256-sidofil,
 2. `core-sounds-sv.txt`, `CREDITS` och `LICENSE`,
 3. den ifyllda licensutfästelsen enligt Asterisks ljudinsändningsprocess, och
-4. en kort redogörelse för språk, dialekt, röst och fullständig filkarta.
+4. en kort redogörelse för språk, dialekt, röst och fullständig filkarta, samt
+5. kontaktpersonen Daniel Nylander: https://github.com/yeager.
 
 FreePBX använder Asterisks ljudkatalog och kan installera paketet som svenskt ljudspråk. En eventuell FreePBX-modul eller katalogpost är en separat gransknings- och publiceringsprocess.
