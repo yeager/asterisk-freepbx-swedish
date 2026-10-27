@@ -14,6 +14,12 @@ Varje paket innehåller Asterisk 1.6.1:s fullständiga filkarta med 569 resurser
 
 Alla WAV-filer är mono, 48 kHz, 16-bitars signed PCM. Varje ljud har lyssningsgranskats och godkänts. Filkartan och de hashbundna granskningsbesluten finns i repot.
 
+## Asterisk-prompt-se från 2006
+
+Det äldre paketet `asterisk-prompt-se` 1.045 innehåller fler än bara Asterisks senare core-sound-filuppsättning. Jämförelsen mot Anton visar 393 gemensamma filnamn, 1 027 äldre filnamn som saknas i Anton och 176 nyare Anton-filer som inte fanns i 2006-paketet. De saknade filerna omfattar bland annat 267 svenska riktnummer, 99 hemautomationsprompter, 30 väderprompter och 579 äldre rotprompter.
+
+Den kompletta maskinläsbara jämförelsen finns i [compat/asterisk-prompt-se-1.045-gap.json](compat/asterisk-prompt-se-1.045-gap.json). Skapa den igen med `scripts/compare_legacy_prompt_se.py` och en extraherad kopia av originalpaketets `sounds/`-katalog.
+
 ## Hämta och installera
 
 Hämta den önskade rösten från den senaste [releasen](https://github.com/yeager/asterisk-freepbx-swedish/releases/latest), kontrollera SHA-256-filen och packa upp arkivet i Asterisks svenska ljudkatalog:
