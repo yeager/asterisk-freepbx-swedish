@@ -1,0 +1,3569 @@
+{
+  "entries": [
+    {
+      "filename": "activated.wav",
+      "script": "Aktiverad.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "added.wav",
+      "script": "Tillagd.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "agent-alreadyon.wav",
+      "script": "Operatören är redan inloggad. Vänligen slå in operatörsnummer, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "agent-incorrect.wav",
+      "script": "Felaktig inloggning. Vänligen slå in ert operatörsnummer, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "agent-loggedoff.wav",
+      "script": "Operatör utloggad.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "agent-loginok.wav",
+      "script": "Operatör inloggad.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "agent-newlocation.wav",
+      "script": "Vänligen välj en ny anknytning, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "agent-pass.wav",
+      "script": "Vänligen ange ditt lösenord, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "agent-user.wav",
+      "script": "Operatörsinloggning. Vänligen slå in ditt operatörsnummer, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "all-circuits-busy-now.wav",
+      "script": "Alla linjer är upptagna just nu.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "ascending-2tone.wav",
+      "script": "[ascending tones]",
+      "kind": "tone_or_signal",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "astcc-followed-by-the-pound-key.wav",
+      "script": "följt av fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "at-tone-time-exactly.wav",
+      "script": "Vid tonsignalen är klockan exakt …",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "auth-incorrect.wav",
+      "script": "Felaktigt lösenord. Vänligen ange ditt lösenord, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "auth-thankyou.wav",
+      "script": "Tack (så mycket)",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "basic-pbx-ivr-main.wav",
+      "script": "Tack för att du ringer. Om du känner till anknytningen kan du slå den när som helst. För försäljning, tryck ett. För kundtjänst, tryck två. För ekonomi, tryck tre. För företagskatalogen, tryck fyra. För växeln, tryck noll.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "beep.wav",
+      "script": "[this is a simple beep tone]",
+      "kind": "tone_or_signal",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "beeperr.wav",
+      "script": "[this is an error beep tone]",
+      "kind": "tone_or_signal",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "call-forwarding.wav",
+      "script": "Vidarekoppling.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "call-fwd-no-ans.wav",
+      "script": "Vidarekoppling vid inget svar.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "call-fwd-on-busy.wav",
+      "script": "Vidarekoppling vid upptaget.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "call-fwd-unconditional.wav",
+      "script": "Ovillkorlig vidarekoppling.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "call-waiting.wav",
+      "script": "Samtal väntar.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "calling.wav",
+      "script": "Ringer.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "cancelled.wav",
+      "script": "Avbruten.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "cannot-complete-as-dialed.wav",
+      "script": "Ditt samtal kan inte kopplas med det slagna numret.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "check-number-dial-again.wav",
+      "script": "Kontrollera numret och ring igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-adminmenu-162.wav",
+      "script": "Vänligen tryck 1 för att slå på eller av din mikrofon, 2 för att låsa eller öppna konferenssamtalet, 3 för att koppla bort senaste användaren från konferensen, 4 eller 6 för att minska respektive öka volymen, 5 för att utöka konferensen, 7 eller 9 för att minska respektive öka volymen i din telefon, tryck 8 för att avsluta.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "conf-adminmenu-18.wav",
+      "script": "Vänligen tryck 1 för att slå på eller av din mikrofon, 2 för att låsa eller öppna konferenssamtalet, 3 för att koppla bort senaste användaren från konferensen, 4 eller 6 för att minska respektive öka volymen, 5 för att utöka konferensen, 7 eller 9 för att minska respektive öka volymen i din telefon, tryck 8 för fler alternativ.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "conf-adminmenu-menu8.wav",
+      "script": "Tryck 1 för att höra en förteckning över konferensdeltagarna, 2 för att kasta ut alla icke-administratörer, 3 för att slå av eller på mikrofonen hos alla icke-administratörer, 4 för att spela in konferensen, eller 8 för att lämna denna meny och återvända till konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-adminmenu.wav",
+      "script": "Vänligen slå 1 för att slå på eller av din mikrofon, 2 för att låsa eller öppna konferenssamtalet, 3 för att koppla bort senaste användaren från konferensen, 4 eller 6 för att minska respektive öka volymen, 7 eller 9 för att minska respektive öka volymen i din telefon, tryck 8 för att avsluta.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-enteringno.wav",
+      "script": "Du går in i konferensnummer …",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "conf-errormenu.wav",
+      "script": "Ogiltigt val.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-extended.wav",
+      "script": "Konferenssamtalet har utökats",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-full.wav",
+      "script": "Konferensen är full.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-getchannel.wav",
+      "script": "Vänligen ange kanalnummer, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-getconfno.wav",
+      "script": "Vänligen ange konferensnummer, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-getpin.wav",
+      "script": "Vänligen ange konferensens pinkod.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-hasjoin.wav",
+      "script": "… har anslutit till konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-hasleft.wav",
+      "script": "… har lämnat konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-invalid.wav",
+      "script": "Detta är inte ett giltigt konferensnummer. Vänligen försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-invalidpin.wav",
+      "script": "Felaktig pinkod för denna konferens.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-kicked.wav",
+      "script": "Ni har blivit bortkopplad från konferenssamtalet.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-leaderhasleft.wav",
+      "script": "Mötets ordförande har lämnat konferensen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-locked.wav",
+      "script": "Konferensen är inte tillgänglig!",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-lockednow.wav",
+      "script": "Konferensen är nu låst",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-muted.wav",
+      "script": "Din mikrofon är nu avstängd",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-noempty.wav",
+      "script": "För tillfället finns inga lediga konferenser",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-nonextended.wav",
+      "script": "Konferensen kan inte utökas",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-now-muted.wav",
+      "script": "Konferensdeltagarnas mikrofoner är nu av",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-now-recording.wav",
+      "script": "Konferensen spelas in",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-now-unmuted.wav",
+      "script": "Konferensdeltagarnas mikrofoner är nu på",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-onlyone.wav",
+      "script": "Det finns ytterligare en deltagare i konferensen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-onlyperson.wav",
+      "script": "För tillfället är du ensam i konferensen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-otherinparty.wav",
+      "script": "Andra deltagare i konferensen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-placeintoconf.wav",
+      "script": "Du kopplas nu till konferensen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-roll-callcomplete.wav",
+      "script": "Upprop slutfört.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "conf-thereare.wav",
+      "script": "För tillfället är det..",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-unlockednow.wav",
+      "script": "Konferensen är nu tillgänglig!",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-unmuted.wav",
+      "script": "Din mikrofon är nu påslagen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-usermenu-162.wav",
+      "script": "Vänligen slå 1 för att slå på eller av din mikrofon, 4 eller 6 för att minska respektive öka volymen, 5 för att utöka konferensen, 7 eller 9 för att minska respektive öka volymen i din telefon, tryck 8 för att avsluta.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-usermenu.wav",
+      "script": "Vänligen tryck 1 för att slå på eller av din mikrofon, 4 eller 6 för att minska respektive öka volymen, 7 eller 9 för att minska respektive öka volymen i din telefon, tryck 8 för att avsluta.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "conf-userswilljoin.wav",
+      "script": "Användare kommer att ansluta till konferensen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-userwilljoin.wav",
+      "script": "En användare kommer att ansluta till konferensen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "conf-waitforleader.wav",
+      "script": "Konferensen börjar då mötesordföranden ansluter.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-begin-glorious-a.wav",
+      "script": "Konferensen börjar då vår fantastiska mötesordförande ansluter.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-begin-glorious-b.wav",
+      "script": "Konferensen börjar då vår fantastiska mötesordförande ansluter.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-begin-glorious-c.wav",
+      "script": "Konferensen börjar då vår fantastiska mötesordförande ansluter.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-begin-leader.wav",
+      "script": "Konferensen börjar då vår mötesordförande ansluter.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-binaural-off.wav",
+      "script": "3D-ljud är avstängt.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-binaural-on.wav",
+      "script": "3D-ljud är påslaget.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-conf-begin.wav",
+      "script": "Konferensen startar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-conf-end.wav",
+      "script": "Konferensen har avslutats",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-dec-list-vol-in.wav",
+      "script": "För att sänka ljudet från andra deltagare…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-dec-list-vol-out.wav",
+      "script": "… för att sänka ljudet från andra deltagare",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-dec-talk-vol-in.wav",
+      "script": "För att sänka din mikrofonvolym gentemot andra deltagare…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-dec-talk-vol-out.wav",
+      "script": "…för att sänka din mikrofonvolym gentemot andra deltagare.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-has-joined.wav",
+      "script": "…har anslutit till konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-has-left.wav",
+      "script": "…har lämnat konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-inc-list-vol-in.wav",
+      "script": "För att öka ljudet från andra deltagare",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-inc-list-vol-out.wav",
+      "script": "… för att öka ljudet från andra deltagare",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-inc-talk-vol-in.wav",
+      "script": "För att öka din mikrofonvolym gentemot andra deltagare…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-inc-talk-vol-out.wav",
+      "script": "…för att öka din mikrofonvolym gentemot andra deltagare.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-invalid.wav",
+      "script": "Ogiltigt val.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-join.wav",
+      "script": "<beep ascending>",
+      "kind": "tone_or_signal",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-leave-in.wav",
+      "script": "För att lämna konferensen…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-leave-out.wav",
+      "script": "… för att lämna konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-leave.wav",
+      "script": "<beep decending>",
+      "kind": "tone_or_signal",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-lock-extended.wav",
+      "script": "…för att låsa eller låsa upp konferensen. Endast konferens administratörer kan ansluta när mötet är låst.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-lock-in.wav",
+      "script": "För att låsa eller låsa upp konferensen…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-lock-no-join.wav",
+      "script": "Konferensen är låst och anslutningar är ej möjliga.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-lock-out.wav",
+      "script": "…för att låsa eller låsa upp konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-locked.wav",
+      "script": "Konferensen är nu låst.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-menu-exit-in.wav",
+      "script": "För att lämna menyn…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-menu-exit-out.wav",
+      "script": "…för att lämna menyn.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-mute-extended.wav",
+      "script": "… för att slå av eller på din mikrofon. När mikrofonen är av kan andra deltagare inte höra dig. Du har dock möjlighet att höra vad andra deltagare som har påslagen mikrofon säger.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-mute-in.wav",
+      "script": "För att slå av eller på din mikrofon…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-mute-out.wav",
+      "script": "…för att slå av eller på din mikrofon.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-muted.wav",
+      "script": "Din mikrofon är nu avstängd.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-only-one.wav",
+      "script": "För tillfället är det en deltagare till i konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-only-participant.wav",
+      "script": "För tillfället är du konferensens enda deltagare",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-participants.wav",
+      "script": "…deltagare i konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-pin-bad.wav",
+      "script": "Du har angett för många ogiltiga pin-koder.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-pin.wav",
+      "script": "Vänligen ange din pin-kod, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-remove-last-in.wav",
+      "script": "För att koppla bort den deltagare som senast anslöt till konferensen…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-remove-last-out.wav",
+      "script": "… för att koppla bort den deltagare som senast anslöt till konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-removed.wav",
+      "script": "Du har blivit bortkopplad från konferensen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-rest-list-vol-in.wav",
+      "script": "För att återställa konferensens hörvolym till standardinställningen…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-rest-list-vol-out.wav",
+      "script": "… för att återställa konferensens hörvolym till standardinställningen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "confbridge-rest-talk-vol-in.wav",
+      "script": "För att återställa din samtalsvolym till standardinställningen…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "confbridge-rest-talk-vol-out.wav",
+      "script": "… för att återställa din samtalsvolym till standardinställningen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "confbridge-there-are.wav",
+      "script": "Just nu är det…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-unlocked.wav",
+      "script": "Konferensen är nu öppen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "confbridge-unmuted.wav",
+      "script": "Din mikrofon är nu påslagen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "de-activated.wav",
+      "script": "Inaktiverad.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-abouttotry.wav",
+      "script": "Jag ska nu försöka utföra en Inter-Asterisk Exchange-koppling till en demonstrations server på Digium. För att detta ska fungera behöver du vara ansluten till internet. Vänligen vänta medan jag försöker genomföra uppkopplingen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-congrats.wav",
+      "script": "Gratulerar. Du har nu installerat och startat Asterisks öppna PBX. Du har även installerat ett urval av ljud och konfigurationsfiler som hjälper dig att komma igång. Som i en vanlig PBX navigerar du i demonstrationen med tonval. Om du använder Console-kanaldrivrutinen i stället för en vanlig telefon använder du kommandona dial, answer och hangup för att simulera funktionerna hos en tonvalstelefon.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "demo-echodone.wav",
+      "script": "Eko testet är slutfört",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-echotest.wav",
+      "script": "Du är på väg att starta ett eko test. Med denna funktion återupprepas allt du säger tillbaka till dig så snart det blivit mottaget. Avsikten med denna test är att ge dig en hörbar känsla av fördröjningen mellan dig och den maskin som kör eko-applikationen. Du kan avsluta testen genom att lägga på eller trycka fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-enterkeywords.wav",
+      "script": "Vänligen ange ett eller flera sökord avskilt med * Tryck därefter fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-instruct.wav",
+      "script": "Om du önskar få mer teknisk information om Asterisk tryck 2 nu. Om du önskar pröva ut IP telefoni funktionerna i Asterisk tryck 500 för att göra en Asterisk Exchange or IAX uppkoppling til den engelsktalande demonstrations servern på Digium. För att detta ska fungera behöver du vara ansluten till internet och ha en uppkoppling på minst 28.8kilobit. För att utföra ett eko test tryck 600. Denna test är mest användbar när du är uppkopplad till denna Asterisk server från en extern anslutning. Testkonfigurationen har även en användare med anknytning 1234 och lösenord 4242. Den användaren är konfigurerad till att ringa på konsollen när dennes anknytning rings upp. Om du slår 1234 kan du pröva att ringa konsollen. Om konsollen är upptagen eller otillgänglig, kommer du att ges möjlighet att lämna ett meddelande. För att lyssna av brukarens röstbrevlåda, tryck anknytning 8500 för att komma till röstbrevlådan. Avslutningsvis kan du trycka fyrkant -och koppla ifrån PBXen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-moreinfo.wav",
+      "script": "Asterisk är en komplett plattform för PBX och IVR baserad på öppen källkod och operativsystemet Linux. För mer information, besök www.asterisk.org.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-nogo.wav",
+      "script": "Tyvärr kunde jag inte skapa en uppkoppling till Digium demonstration Asterisk server. Du kan hitta felsökingsinformation på Asterisk konsollen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-nomatch.wav",
+      "script": "Tyvärr hittar jag ingen matchning på angivna sökord",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "demo-thanks.wav",
+      "script": "Hejdå. Tack för att du provat Asterisk Open Source PBX.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "descending-2tone.wav",
+      "script": "[descending tones]",
+      "kind": "tone_or_signal",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/both_help.wav",
+      "script": "Tryck stjärna för att pausa respektive fortsätta, tryck fyrkant för att starta en ny diktamen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/enter_filename.wav",
+      "script": "Ange ett diktamensnummer följt av fyrkant alternativt bara fyrkant för att avsluta",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/forhelp.wav",
+      "script": "Tryck 0 för hjälp",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/pause.wav",
+      "script": "paus",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/paused.wav",
+      "script": "pausad",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/play_help.wav",
+      "script": "Tryck 1 för att växla till inspelningsläge, tryck 2 för att variera uppspelningshastighet, tryck 7 för att backa, tryck 8 för att hoppa fram.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/playback.wav",
+      "script": "uppspelning",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/playback_mode.wav",
+      "script": "uppspelningsläge",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/record.wav",
+      "script": "Spela in",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/record_help.wav",
+      "script": "Tryck 1 för att växla till inspelningsläge, tryck 8 för att stoppa inspelningen och starta om.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dictate/record_mode.wav",
+      "script": "Inspelningsläge.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "dictate/truncating_audio.wav",
+      "script": "Tidsbegränsar ljudinspelning",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/0.wav",
+      "script": "Noll",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/1.wav",
+      "script": "Ett",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/10.wav",
+      "script": "Tio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/11.wav",
+      "script": "Elva",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/12.wav",
+      "script": "Tolv",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/13.wav",
+      "script": "Tretton",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/14.wav",
+      "script": "Fjorton",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/15.wav",
+      "script": "Femton",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/16.wav",
+      "script": "Sexton",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/17.wav",
+      "script": "Sjutton",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/18.wav",
+      "script": "Arton",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/19.wav",
+      "script": "Nitton",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/2.wav",
+      "script": "Två",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/20.wav",
+      "script": "Tjugo",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/3.wav",
+      "script": "Tre",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/30.wav",
+      "script": "Trettio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/4.wav",
+      "script": "Fyra",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/40.wav",
+      "script": "Fyrtio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/5.wav",
+      "script": "Fem",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/50.wav",
+      "script": "Femtio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/6.wav",
+      "script": "Sex",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/60.wav",
+      "script": "Sextio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/7.wav",
+      "script": "Sju",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/70.wav",
+      "script": "Sjuttio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/8.wav",
+      "script": "Åtta",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/80.wav",
+      "script": "Åttio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/9.wav",
+      "script": "Nio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/90.wav",
+      "script": "Nittio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/a-m.wav",
+      "script": "Förmiddag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/at.wav",
+      "script": "På",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/billion.wav",
+      "script": "miljard",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/day-0.wav",
+      "script": "Söndag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/day-1.wav",
+      "script": "Måndag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/day-2.wav",
+      "script": "Tisdag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/day-3.wav",
+      "script": "Onsdag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/day-4.wav",
+      "script": "Torsdag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/day-5.wav",
+      "script": "Fredag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/day-6.wav",
+      "script": "Lördag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/dollars.wav",
+      "script": "Dollar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-1.wav",
+      "script": "Första",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-10.wav",
+      "script": "Tionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-11.wav",
+      "script": "elfte",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-12.wav",
+      "script": "Tolfte",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-13.wav",
+      "script": "Trettonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-14.wav",
+      "script": "Fjortonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-15.wav",
+      "script": "Femtonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-16.wav",
+      "script": "Sextonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-17.wav",
+      "script": "Sjuttonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-18.wav",
+      "script": "Artonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-19.wav",
+      "script": "Nittonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-2.wav",
+      "script": "Andra",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-20.wav",
+      "script": "Tjugonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-3.wav",
+      "script": "Tredje",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-30.wav",
+      "script": "Trettionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-4.wav",
+      "script": "Fjärde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-40.wav",
+      "script": "Fyrtionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-5.wav",
+      "script": "Femte",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-50.wav",
+      "script": "Femtionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-6.wav",
+      "script": "Sjätte",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-60.wav",
+      "script": "Sextionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-7.wav",
+      "script": "Sjunde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-70.wav",
+      "script": "Sjuttionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-8.wav",
+      "script": "Åttonde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-80.wav",
+      "script": "Åttionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-9.wav",
+      "script": "nionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-90.wav",
+      "script": "nittionde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-billion.wav",
+      "script": "miljarde",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-hundred.wav",
+      "script": "hundrade",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-million.wav",
+      "script": "Miljonte",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/h-thousand.wav",
+      "script": "tusende",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/hundred.wav",
+      "script": "Hundra",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/million.wav",
+      "script": "Miljoner",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/minus.wav",
+      "script": "Minus",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-0.wav",
+      "script": "Januari",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-1.wav",
+      "script": "Februari",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-10.wav",
+      "script": "November",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-11.wav",
+      "script": "December",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-2.wav",
+      "script": "Mars",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-3.wav",
+      "script": "April",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-4.wav",
+      "script": "maj",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA",
+      "tts_prompt": "/maj/"
+    },
+    {
+      "filename": "digits/mon-5.wav",
+      "script": "Juni",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-6.wav",
+      "script": "Juli",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-7.wav",
+      "script": "Augusti",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-8.wav",
+      "script": "September",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/mon-9.wav",
+      "script": "oktober",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "digits/oclock.wav",
+      "script": "Klockan",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/oh.wav",
+      "script": "noll",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/p-m.wav",
+      "script": "Eftermiddag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/pound.wav",
+      "script": "Fyrkant",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/star.wav",
+      "script": "Stjärna",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/thousand.wav",
+      "script": "Tusen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/today.wav",
+      "script": "Idag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/tomorrow.wav",
+      "script": "Imorgon",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "digits/yesterday.wav",
+      "script": "Igår",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-first.wav",
+      "script": "… bokstäverna i förnamnet på den du söker",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "dir-firstlast.wav",
+      "script": "… bokstäverna i för- eller efternamn på den du söker.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-instr.wav",
+      "script": "Om detta är korrekt, tryck 1, annars tryck *",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-intro-fn.wav",
+      "script": "Välkommen till telefonboken. Vänligen ange de tre första bokstäverna i förnamnet på den du söker på knappsatsen på telefonen. Använd 7 för Q och 9 för Z.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-intro.wav",
+      "script": "Välkommen till telefonboken. Vänligen ange de tre första bokstäverna i efternamnet på den du söker på knappsatsen på telefonen. Använd 7 för Q och 9 för Z.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-last.wav",
+      "script": "… bokstäverna i efternamnet på den du söker",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-multi1.wav",
+      "script": "Tryck…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-multi2.wav",
+      "script": "… för…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-multi3.wav",
+      "script": "… anknytning…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-multi9.wav",
+      "script": "Tryck 9 för fler alternativ…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-nomatch.wav",
+      "script": "Din sökning resulterade inte i någon träff.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-nomore.wav",
+      "script": "Det finns inga fler kompatibla träffar i telefonboken.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-pls-enter.wav",
+      "script": "Vänligen ange de första…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-usingkeypad.wav",
+      "script": "…med hjälp av knappsatsen på telefonen. Tryck 7 för Q och 9 för Z.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "dir-welcome.wav",
+      "script": "Välkommen till telefonboken",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "disabled.wav",
+      "script": "Avstängd.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "do-not-disturb.wav",
+      "script": "Stör ej.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "enabled.wav",
+      "script": "Påslagen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "enter-num-blacklist.wav",
+      "script": "Ange numret som ska spärras.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "entr-num-rmv-blklist.wav",
+      "script": "Ange numret som ska tas bort från spärrlistan.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "extension.wav",
+      "script": "Anknytning.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "feature-not-avail-line.wav",
+      "script": "Den funktionen är inte tillgänglig på den här linjen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "followme/call-from.wav",
+      "script": "Inkommande samtal från",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "followme/no-recording.wav",
+      "script": "Du har ett inkommande samtal…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "followme/options.wav",
+      "script": "Tryck 1 för att acceptera eller 2 för att avvisa samtalet",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "followme/pls-hold-while-try.wav",
+      "script": "Vänligen vänta medan jag försöker nå eller hitta personen du söker",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "followme/sorry.wav",
+      "script": "Tyvärr kan jag inte nå eller hitta personen du söker",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "followme/status.wav",
+      "script": "Personen du söker är ej på plats; vänta kvar medan jag försöker finna denne",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "for.wav",
+      "script": "för.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "from-unknown-caller.wav",
+      "script": "från en okänd uppringare.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "goodbye.wav",
+      "script": "Hej då!",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "hello-world.wav",
+      "script": "Hej världen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "hello.wav",
+      "script": "Hej.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "hours.wav",
+      "script": "Timmar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "if-correct-press.wav",
+      "script": "Om detta stämmer, tryck …",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "im-sorry.wav",
+      "script": "Jag beklagar.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "info-about-last-call.wav",
+      "script": "Information om ditt senaste samtal.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "invalid.wav",
+      "script": "Ogiltig anknytning. Vänligen försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "is-in-use.wav",
+      "script": "används.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "is-set-to.wav",
+      "script": "är inställd på.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "is.wav",
+      "script": "är.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/a.wav",
+      "script": "a",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/97.wav",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA",
+      "tts_prompt": "/ɑː/"
+    },
+    {
+      "filename": "letters/ascii123.wav",
+      "script": "Vänster krullparantes.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "letters/ascii124.wav",
+      "script": "Vertikalstreck |",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii125.wav",
+      "script": "Höger krullparentes.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "letters/ascii126.wav",
+      "script": "Tilde.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "letters/ascii34.wav",
+      "script": "citat",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii36.wav",
+      "script": "dollartecken",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii37.wav",
+      "script": "procent",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii38.wav",
+      "script": "Ock-tecken.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "letters/ascii39.wav",
+      "script": "Apostrof ’",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii40.wav",
+      "script": "Vänster parentes",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii41.wav",
+      "script": "Höger parentes",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii42.wav",
+      "script": "Stjärna",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii44.wav",
+      "script": "Komma",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii58.wav",
+      "script": "Koolon.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "letters/ascii59.wav",
+      "script": "Semikolon",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii60.wav",
+      "script": "Mindre än",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii62.wav",
+      "script": "Större än",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii63.wav",
+      "script": "Frågetecken",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii91.wav",
+      "script": "Vänster klammer [",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii92.wav",
+      "script": "bakåtsnedstreck",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii93.wav",
+      "script": "Höger klammer ]",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii94.wav",
+      "script": "Cirkumflex.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "letters/ascii95.wav",
+      "script": "Understykning",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/ascii96.wav",
+      "script": "Accent `",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/asterisk.wav",
+      "script": "Asterisk.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "letters/at.wav",
+      "script": "Snabel-a.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "letters/b.wav",
+      "script": "B",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "be.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/98.wav"
+    },
+    {
+      "filename": "letters/c.wav",
+      "script": "C",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "se.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/99.wav"
+    },
+    {
+      "filename": "letters/d.wav",
+      "script": "D",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "D.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/100.wav"
+    },
+    {
+      "filename": "letters/dash.wav",
+      "script": "bindestreck",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/dollar.wav",
+      "script": "Dollar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/dot.wav",
+      "script": "Punkt",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/e.wav",
+      "script": "e",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/101.wav",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA",
+      "tts_prompt": "E."
+    },
+    {
+      "filename": "letters/equals.wav",
+      "script": "Lika med",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/exclaimation-point.wav",
+      "script": "Utropstecken",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/f.wav",
+      "script": "F",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "eff.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/102.wav"
+    },
+    {
+      "filename": "letters/g.wav",
+      "script": "G",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "\"/ɡeː/\"",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/103.wav"
+    },
+    {
+      "filename": "letters/h.wav",
+      "script": "H",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "hå.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/104.wav"
+    },
+    {
+      "filename": "letters/i.wav",
+      "script": "I",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "i.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/105.wav"
+    },
+    {
+      "filename": "letters/j.wav",
+      "script": "J",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "ji.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/106.wav"
+    },
+    {
+      "filename": "letters/k.wav",
+      "script": "K",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "kå.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/107.wav"
+    },
+    {
+      "filename": "letters/l.wav",
+      "script": "L",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "El.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/108.wav"
+    },
+    {
+      "filename": "letters/m.wav",
+      "script": "M",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "em.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/109.wav"
+    },
+    {
+      "filename": "letters/n.wav",
+      "script": "N",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "en.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/110.wav"
+    },
+    {
+      "filename": "letters/o.wav",
+      "script": "O",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "/uː/",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/111.wav"
+    },
+    {
+      "filename": "letters/p.wav",
+      "script": "P",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "pe.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/112.wav"
+    },
+    {
+      "filename": "letters/plus.wav",
+      "script": "Plus",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/q.wav",
+      "script": "Q",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "/kʉː/",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/113.wav"
+    },
+    {
+      "filename": "letters/r.wav",
+      "script": "R",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "ärr.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/114.wav"
+    },
+    {
+      "filename": "letters/s.wav",
+      "script": "S",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "ess.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/115.wav"
+    },
+    {
+      "filename": "letters/slash.wav",
+      "script": "Snedstreck",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/space.wav",
+      "script": "Mellanslag",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "letters/t.wav",
+      "script": "T",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "te.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/116.wav"
+    },
+    {
+      "filename": "letters/u.wav",
+      "script": "U",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "u.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/117.wav"
+    },
+    {
+      "filename": "letters/v.wav",
+      "script": "V",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "/veː/",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/118.wav"
+    },
+    {
+      "filename": "letters/w.wav",
+      "script": "W",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "dubbelve.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/119.wav"
+    },
+    {
+      "filename": "letters/x.wav",
+      "script": "X",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "/ɛks/",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/120.wav"
+    },
+    {
+      "filename": "letters/y.wav",
+      "script": "Y",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "y.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/121.wav"
+    },
+    {
+      "filename": "letters/z.wav",
+      "script": "Z",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "zäta.",
+      "pronunciation_source": "FreeSWITCH approved input: ascii/122.wav"
+    },
+    {
+      "filename": "letters/zed.wav",
+      "script": "Zäta.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "location.wav",
+      "script": "Plats.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "lowercase.wav",
+      "script": "liten bokstav",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "minute.wav",
+      "script": "minut.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "minutes.wav",
+      "script": "minuter",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "num-was-successfully.wav",
+      "script": "Numret har …",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "number-not-answering.wav",
+      "script": "Numret svarar inte.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "number.wav",
+      "script": "Nummer.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "one-moment-please.wav",
+      "script": "Ett ögonblick, tack.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "pbx-invalid.wav",
+      "script": "Ogiltig anknytning. Vänligen försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "pbx-invalidpark.wav",
+      "script": "Inget samtal finns parkerat på denna anknytning. Vänligen försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "pbx-parkingfailed.wav",
+      "script": "Det gick inte att parkera samtalet.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "pbx-transfer.wav",
+      "script": "Kopplar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "phonetic/9_p.wav",
+      "script": "nio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "phonetic/a_p.wav",
+      "script": "Adam",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Adam.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/97.wav"
+    },
+    {
+      "filename": "phonetic/b_p.wav",
+      "script": "Bertil",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Bertil.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/98.wav"
+    },
+    {
+      "filename": "phonetic/c_p.wav",
+      "script": "Caesar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Cesar.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/99.wav"
+    },
+    {
+      "filename": "phonetic/d_p.wav",
+      "script": "David",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Dávid.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/100.wav"
+    },
+    {
+      "filename": "phonetic/e_p.wav",
+      "script": "Erik",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Erik.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/101.wav"
+    },
+    {
+      "filename": "phonetic/f_p.wav",
+      "script": "Filip",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Filip.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/102.wav"
+    },
+    {
+      "filename": "phonetic/g_p.wav",
+      "script": "Gustav",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Gustav.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/103.wav"
+    },
+    {
+      "filename": "phonetic/h_p.wav",
+      "script": "Helge",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Helge.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/104.wav"
+    },
+    {
+      "filename": "phonetic/i_p.wav",
+      "script": "Ivar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Ivar.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/105.wav"
+    },
+    {
+      "filename": "phonetic/j_p.wav",
+      "script": "Johan",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Johan.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/106.wav"
+    },
+    {
+      "filename": "phonetic/k_p.wav",
+      "script": "Kalle",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Kalle.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/107.wav"
+    },
+    {
+      "filename": "phonetic/l_p.wav",
+      "script": "Ludvig",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Ludvig.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/108.wav"
+    },
+    {
+      "filename": "phonetic/m_p.wav",
+      "script": "Martin",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Martin.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/109.wav"
+    },
+    {
+      "filename": "phonetic/n_p.wav",
+      "script": "Niklas",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Niklas.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/110.wav"
+    },
+    {
+      "filename": "phonetic/o_p.wav",
+      "script": "Olof",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Olof.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/111.wav"
+    },
+    {
+      "filename": "phonetic/p_p.wav",
+      "script": "Petter",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Petter.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/112.wav"
+    },
+    {
+      "filename": "phonetic/q_p.wav",
+      "script": "Quintus",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Qvintus.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/113.wav"
+    },
+    {
+      "filename": "phonetic/r_p.wav",
+      "script": "Rudolf",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Rudolf.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/114.wav"
+    },
+    {
+      "filename": "phonetic/s_p.wav",
+      "script": "Sigurd",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Sigurd.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/115.wav"
+    },
+    {
+      "filename": "phonetic/t_p.wav",
+      "script": "Tore",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Tore.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/116.wav"
+    },
+    {
+      "filename": "phonetic/u_p.wav",
+      "script": "Urban",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "urrbann.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/117.wav"
+    },
+    {
+      "filename": "phonetic/v_p.wav",
+      "script": "Viktor",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Viktor.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/118.wav"
+    },
+    {
+      "filename": "phonetic/w_p.wav",
+      "script": "Wilhelm",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Wilhelm.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/119.wav"
+    },
+    {
+      "filename": "phonetic/x_p.wav",
+      "script": "Xerxes",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Xerxes.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/120.wav"
+    },
+    {
+      "filename": "phonetic/y_p.wav",
+      "script": "Yngve",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Yngve.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/121.wav"
+    },
+    {
+      "filename": "phonetic/z_p.wav",
+      "script": "Zäta",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "tts_prompt": "Zäta.",
+      "pronunciation_source": "FreeSWITCH approved input: phonetic-ascii/122.wav"
+    },
+    {
+      "filename": "please-try-again.wav",
+      "script": "var god försök igen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "please-try-call-later.wav",
+      "script": "Försök ringa igen senare.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "pls-hold-while-try.wav",
+      "script": "Vänta medan vi försöker koppla dig.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "pls-try-call-later.wav",
+      "script": "Försök ringa igen senare.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "pm-invalid-option.wav",
+      "script": "Det valet är ogiltigt. Försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "priv-callee-options.wav",
+      "script": "Tryck 1 för att permanent godta och koppla fram den här personen. Tryck 2 för att permanent skicka personen till röstbrevlådan. Tryck 3 för att permanent skicka personen till tortyrkammaren för telefonförsäljare. Tryck 4 för att permanent skicka personen till systemet för hövligt avvisande. Tryck 5 för att koppla fram personen i framtiden, men skicka det här samtalet till röstbrevlådan.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "priv-callpending.wav",
+      "script": "Du har ett samtal från en person som presenterar sig som…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "priv-introsaved.wav",
+      "script": "Tack. Vänligen vänta medan jag försöker koppla fram samtalet.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "priv-recordintro.wav",
+      "script": "Vänligen säg ditt namn efter tonen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "privacy-incorrect.wav",
+      "script": "Ogiltigt nummer.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "privacy-prompt.wav",
+      "script": "Vänligen ange ditt telefonnummer, inklusive riktnummer.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "privacy-thankyou.wav",
+      "script": "Tack (så mycket)",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "privacy-to-blacklist-last-caller.wav",
+      "script": "Den senaste uppringaren har …",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "privacy-unident.wav",
+      "script": "Personen ni söker tar ej emot samtal från skyddade eller okända nummer.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-callswaiting.wav",
+      "script": "I kö för att tala med en representant",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-holdtime.wav",
+      "script": "Beräknad väntetid är…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-less-than.wav",
+      "script": "Mindre än…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-minute.wav",
+      "script": "Minut",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-minutes.wav",
+      "script": "Minuter",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-periodic-announce.wav",
+      "script": "Alla våra representanter är upptagna för tillfället. Vänligen vänta kvar och ert samtal kommer att besvaras av första lediga representant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-quantity1.wav",
+      "script": "Det är för tillfället fler än…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-quantity2.wav",
+      "script": "… samtal i kö.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-reporthold.wav",
+      "script": "Väntetid",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-seconds.wav",
+      "script": "Sekunder",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-thankyou.wav",
+      "script": "Tack för visat tålamod",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-thereare.wav",
+      "script": "Du är samtal nr…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "queue-youarenext.wav",
+      "script": "Ert samtal är nu först i kön och kommer att besvaras av nästa tillgängliga representant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "removed.wav",
+      "script": "Borttagen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "screen-callee-options.wav",
+      "script": "Du har nu följande alternativ. Tryck 1 om du vill ta emot samtalet. Tryck 2 för att skicka samtalet till röstbrevlådan. Tryck 3 för att skicka samtalet till tortyrkammaren för telefonförsäljare. Tryck 4 för att skicka samtalet till systemet för hövligt avvisande.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "second.wav",
+      "script": "sekund.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "seconds.wav",
+      "script": "sekunder",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/1.wav",
+      "script": "[Tystnad: 1 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/10.wav",
+      "script": "[Tystnad: 10 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/2.wav",
+      "script": "[Tystnad: 2 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/3.wav",
+      "script": "[Tystnad: 3 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/4.wav",
+      "script": "[Tystnad: 4 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/5.wav",
+      "script": "[Tystnad: 5 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/6.wav",
+      "script": "[Tystnad: 6 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/7.wav",
+      "script": "[Tystnad: 7 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/8.wav",
+      "script": "[Tystnad: 8 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "silence/9.wav",
+      "script": "[Tystnad: 9 sekunder]",
+      "kind": "silence",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "simul-call-limit-reached.wav",
+      "script": "Gränsen för samtidiga samtal har uppnåtts.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "something-terribly-wrong.wav",
+      "script": "Något gick allvarligt fel!",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "sorry-youre-having-problems.wav",
+      "script": "Vi beklagar att du har problem.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "sorry.wav",
+      "script": "Vi beklagar.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "speed-dial-empty.wav",
+      "script": "Kortnumret du har valt är tomt.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "speed-dial.wav",
+      "script": "Kortnummer.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-agent.wav",
+      "script": "Operatör",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-console.wav",
+      "script": "Konsol.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "spy-dahdi.wav",
+      "script": "DAHDI",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-h323.wav",
+      "script": "H tretjugotre",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA",
+      "tts_prompt": "hå. tretjugotre."
+    },
+    {
+      "filename": "spy-iax.wav",
+      "script": "IAX",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-iax2.wav",
+      "script": "IAX 2",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA",
+      "tts_prompt": "i. /ɑː/ /ɛks/ två."
+    },
+    {
+      "filename": "spy-jingle.wav",
+      "script": "Jingle",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-local.wav",
+      "script": "Lokal.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "spy-mgcp.wav",
+      "script": "MGCP",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-misdn.wav",
+      "script": "MISDN",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-mobile.wav",
+      "script": "Bluetooth Mobile",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-nbs.wav",
+      "script": "NBS",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-sip.wav",
+      "script": "SIP",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-skinny.wav",
+      "script": "Skinny",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-unistim.wav",
+      "script": "Unistim",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "spy-usbradio.wav",
+      "script": "U S B ra-dio",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA",
+      "tts_prompt": "u. ess /beː/ ra-dio."
+    },
+    {
+      "filename": "spy-zap.wav",
+      "script": "Zap",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "ss-noservice.wav",
+      "script": "Numret du har slagit är inte i bruk. Vänligen kontrollera numret och försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "telephone-number.wav",
+      "script": "Telefonnummer.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "time.wav",
+      "script": "Tid.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "to-call-this-number.wav",
+      "script": "för att ringa det här numret.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "to-extension.wav",
+      "script": "till anknytning.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "to-listen-to-it.wav",
+      "script": "för att lyssna på det.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "to-rerecord-it.wav",
+      "script": "för att spela in det på nytt.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "transfer.wav",
+      "script": "Vänligen vänta medan jag försöker koppla till anknytningen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "tt-allbusy.wav",
+      "script": "Alla i hushållet är för tillfället upptagna med att prata med andra telefonförsäljare. Vänta kvar så besvaras samtalet i turordning.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "tt-monkeys.wav",
+      "script": "[Apljud]",
+      "kind": "tone_or_signal",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "tt-monkeysintro.wav",
+      "script": "De har blivit bortförda av ett gäng apor.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "tt-somethingwrong.wav",
+      "script": "Någonting är fruktansvärt fel",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "tt-weasels.wav",
+      "script": "Vårt telefonsystem har blivit uppätet av vesslor",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "unidentified-no-callback.wav",
+      "script": "Uppringaren är okänd eller har dolt nummer och kan därför inte ringas upp.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "uppercase.wav",
+      "script": "stor bokstav",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Cust1.wav",
+      "script": "Mapp 5",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Cust2.wav",
+      "script": "Mapp 6",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Cust3.wav",
+      "script": "Mapp 7",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Cust4.wav",
+      "script": "Mapp 8",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Cust5.wav",
+      "script": "Mapp 9",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Family.wav",
+      "script": "Familj",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Friends.wav",
+      "script": "Vänner",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-INBOX.wav",
+      "script": "ny",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Old.wav",
+      "script": "Gamla",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Urgent.wav",
+      "script": "Viktigt",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-Work.wav",
+      "script": "Arbete",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-advopts.wav",
+      "script": "Tryck 3 för avancerade alternativ",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-and.wav",
+      "script": "Och",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-calldiffnum.wav",
+      "script": "Tryck 2 för att ange ett annat nummer",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-changeto.wav",
+      "script": "Vilken mapp vill du byta till?",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "vm-delete.wav",
+      "script": "Tryck 7 för att radera meddelandet",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-deleted.wav",
+      "script": "Meddelandet raderat",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-dialout.wav",
+      "script": "Vänligen vänta medan jag kopplar fram samtalet.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-duration.wav",
+      "script": "Meddelandet är…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-enter-num-to-call.wav",
+      "script": "Vänligen ange önskat telefonnummer",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-extension.wav",
+      "script": "Anknytning",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-first.wav",
+      "script": "Först",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-for.wav",
+      "script": "För",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-forward-multiple.wav",
+      "script": "Tryck 1 för att sända detta meddelande, eller 2 för att lägga till ytterligare en mottagare",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-forward.wav",
+      "script": "Tryck 1 för att ange en anknytning, tryck 2 för att använda menyn.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-forwardoptions.wav",
+      "script": "Tryck 1 för att lägga till en inledning till meddelandet, tryck 2 för att sända meddelandet utan inledning.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-from-extension.wav",
+      "script": "Meddelande från anknytning",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-from-phonenumber.wav",
+      "script": "Meddelande från telefonnummer",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-from.wav",
+      "script": "Från",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-goodbye.wav",
+      "script": "Adjö",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-helpexit.wav",
+      "script": "Tryck stjärna för hjälp, eller fyrkant för att avsluta.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-incorrect-mailbox.wav",
+      "script": "Felaktig inloggning. Röstbrevlåda?",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-incorrect.wav",
+      "script": "Felaktig inloggning",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-instructions.wav",
+      "script": "För att komma till dina meddelanden tryck 1 nu. Du kan när som helst avsluta röstbrevlådan genom att trycka fyrkant",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-intro.wav",
+      "script": "Vänligen lämna ditt meddelande efter tonen. Efter avslutat meddelande, tryck fyrkant eller lägg på luren.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-invalid-password.wav",
+      "script": "Lösenordet uppfyller inte minimikraven för denna röstbrevlåda. Vänligen försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-invalidpassword.wav",
+      "script": "Ogiltigt lösenord. Försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "vm-isonphone.wav",
+      "script": "Är upptagen med annat telefonsamtal.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-isunavail.wav",
+      "script": "…är ej tillgänglig",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-last.wav",
+      "script": "Sista.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "vm-leavemsg.wav",
+      "script": "Tryck 5 för att lämna ett meddelande",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-login.wav",
+      "script": "Comedian Mail. Röstbrevlåda.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "vm-mailboxfull.wav",
+      "script": "Röstbrevlådan är full, tyvärr kan inga fler meddelanden tas emot.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "vm-marked-nonurgent.wav",
+      "script": "Status som viktigt är borttagen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-marked-urgent.wav",
+      "script": "meddelande har markerats som Viktigt",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-message.wav",
+      "script": "Meddelande",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-messages.wav",
+      "script": "Meddelanden",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-minutes.wav",
+      "script": "minuter",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-mismatch.wav",
+      "script": "Du har inte angett samma lösenord båda gångerna. Vänligen försök igen.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-msgforwarded.wav",
+      "script": "Ditt meddelande har blivit vidaresänt.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-msginstruct.wav",
+      "script": "Tryck 6 för att höra nästa meddelande, tryck 5 för att höra detta meddelande igen, tryck 4 för att höra föregående meddelande, tryck 0 för att radera eller återställa detta meddelande, tryck fyrkant för att avsluta röstbrevlådan",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-msgsaved.wav",
+      "script": "Meddelandet är sparat",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-newpassword.wav",
+      "script": "Vänligen ange ert nya lösenord, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-newuser.wav",
+      "script": "Välkommen till Comedian Mail. Jag leder dig nu genom en kort installationsprocess.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "vm-next.wav",
+      "script": "Tryck 6 för att höra nästa meddelande",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-no.wav",
+      "script": "nej",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-nobodyavail.wav",
+      "script": "För tillfället kan ingen ta emot ditt samtalet",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-nobox.wav",
+      "script": "Det går inte att svara på detta meddelande då avsändaren saknar röstbrevlåda.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-nomore.wav",
+      "script": "Inga fler meddelanden",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-nonumber.wav",
+      "script": "Tyvärr vet jag ej avsändaren till detta meddelande",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-num-i-have.wav",
+      "script": "Numret jag har är",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-onefor-full.wav",
+      "script": "Tryck 1 för att lyssna på…",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-onefor.wav",
+      "script": "Tryck 1 för",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-options.wav",
+      "script": "Tryck 1 för att spela in ditt hälsningsmeddelande när du är otillgänglig, tryck 2 för meddelandet när du är upptagen, 3 för att spela in ditt namn, tryck 4 för att spela in en tillfällig hälsning, 5 för att ändra lösenord, tryck stjärna för att återgå till huvudmenyn.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-opts-full.wav",
+      "script": "Tryck 2 för att lyssna på meddelanden I andra mappar. Tryck 3 för att lämna ett meddelande i en annan röstbrevlåda. Tryck 0 för hantering av hälsningar och lösenord.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-opts.wav",
+      "script": "Tryck 2 för att byta mapp, tryck 3 för avancerade funktioner, tryck 0 för inställningar.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-passchanged.wav",
+      "script": "Ditt lösenord har blivit ändrat.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-password.wav",
+      "script": "Lösenord",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-pls-try-again.wav",
+      "script": "Vänligen försök igen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-press.wav",
+      "script": "Tryck",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-prev.wav",
+      "script": "Tryck 4 för att höra föregående meddelande",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-reachoper.wav",
+      "script": "Tryck 0 för att bli kopplad till telefonist",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-rec-busy.wav",
+      "script": "Läs in ditt hälsningsmeddelande efter tonen, avsluta med fyrkant",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-rec-name.wav",
+      "script": "Säg ert namn efter tonen, avsluta med fyrkant",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-rec-temp.wav",
+      "script": "Läs in ditt tillfälliga meddelande efter tonen, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-rec-unv.wav",
+      "script": "Läs in ditt hälsningsmeddelande efter tonen, avsluta med fyrkant",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-received.wav",
+      "script": "Mottaget",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-record-prepend.wav",
+      "script": "Läs in en inledning till det vidaresända meddelandet efter tonen, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-reenterpassword.wav",
+      "script": "Vänligen ange ditt lösenord igen, avsluta med fyrkant.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-repeat.wav",
+      "script": "Tryck 5 för att upprepa meddelandet",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-review-nonurgent.wav",
+      "script": "Tryck 4 för att ta bort flaggan för viktigt meddelande",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-review-urgent.wav",
+      "script": "Tryck 4 för att markera detta meddelande som viktigt",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-review.wav",
+      "script": "Tryck ett för att godkänna inspelningen, tryck två för att lyssna på den, tryck tre för att göra en ny inspelning.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "vm-saved.wav",
+      "script": "sparat",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-savedto.wav",
+      "script": "Sparat i",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-savefolder.wav",
+      "script": "I vilken mapp vill du spara meddelandet?",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED",
+      "manuscript_repair": "2026-10-26 review-page Swedish QA"
+    },
+    {
+      "filename": "vm-savemessage.wav",
+      "script": "Eller 9 för att spara meddelandet",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-saveoper.wav",
+      "script": "Tryck 1 för att godkänna inspelningen, annars, vänta kvar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-sorry.wav",
+      "script": "Tyvärr uppfattade jag inte ditt svar",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-star-cancel.wav",
+      "script": "Tryck stjärna för att avbryta",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-starmain.wav",
+      "script": "Tryck stjärna för att återgå till huvudmenyn",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tempgreetactive.wav",
+      "script": "Din tillfälliga hälsning är nu aktiverad",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tempgreeting.wav",
+      "script": "Tryck 1 för att spela in din tillfälliga hälsning",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tempgreeting2.wav",
+      "script": "Tryck 1 för att spela in, eller 2 för att radera din tillfälliga hälsning.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tempremoved.wav",
+      "script": "Din tillfälliga hälsning har blivit borttagen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-then-pound.wav",
+      "script": "Avsluta med fyrkant",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-theperson.wav",
+      "script": "Personen på denna anknytningen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tmpexists.wav",
+      "script": "Det finns en tillfällig hälsning aktiverad som ersätter din ordinarie hälsning.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tocallback.wav",
+      "script": "Tryck 2 för att ringa upp personen som lämnade detta meddelande",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tocallnum.wav",
+      "script": "Tryck 1 för att ringa detta nummer",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tocancel.wav",
+      "script": "…eller fyrkant för att avbryta",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tocancelmsg.wav",
+      "script": "Tryck stjärna för att avbryta detta meddelande",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-toenternumber.wav",
+      "script": "Tryck 1 för att ange ett nummer",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-toforward.wav",
+      "script": "Tryck 8 för att sända meddelandet till en annan användare",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tohearenv.wav",
+      "script": "Tryck 3 för utökad meddelandeinformation",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tomakecall.wav",
+      "script": "Tryck 4 för att ringa ett utgående samtal",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-tooshort.wav",
+      "script": "Ditt meddelande är för kort",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-toreply.wav",
+      "script": "Tryck 1 för att svara",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-torerecord.wav",
+      "script": "Tryck 3 för att spela in ditt meddelande igen",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-undelete.wav",
+      "script": "Tryck 7 för att återställa meddelandet",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-undeleted.wav",
+      "script": "Meddelandet återställt",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-unknown-caller.wav",
+      "script": "Okänd avsändare",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-whichbox.wav",
+      "script": "För att lämna ett meddelande, vänligen ange numret på röstbrevlådan",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "vm-youhave.wav",
+      "script": "Du har",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "with.wav",
+      "script": "med.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "you-entered.wav",
+      "script": "Du angav.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    },
+    {
+      "filename": "your.wav",
+      "script": "din.",
+      "kind": "speech",
+      "status": "AUDIO_APPROVED"
+    }
+  ]
+}
