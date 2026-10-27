@@ -2,6 +2,8 @@
 
 Kompletta svenska core-sound-paket för Asterisk och FreePBX, med rösterna Anton och Louise.
 
+Det ursprungliga svenska paketet Asterisk-prompt-se skapades av Daniel Nylander 2006. Den här utgåvan innehåller nya inspelningar med Anton och Louise.
+
 ## Innehåll
 
 Varje paket innehåller Asterisk 1.6.1:s fullständiga filkarta med 569 resurser:

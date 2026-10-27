@@ -1,5 +1,8 @@
 Swedish Asterisk and FreePBX core-sound packages
 
+Original Swedish Asterisk-prompt-se package (2006):
+Daniel Nylander
+
 Package curation and Swedish script review:
 Daniel Nylander
 https://github.com/yeager/asterisk-freepbx-swedish
@@ -10,5 +13,8 @@ https://github.com/yeager
 
 Generated voices:
 Anton and Louise, generated with ElevenLabs.
+
+The Anton and Louise recordings are new recordings. They do not reuse audio
+from the 2006 package.
 
 The package publisher confirms redistribution under CC BY-SA 3.0.
