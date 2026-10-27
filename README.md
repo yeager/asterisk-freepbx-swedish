@@ -14,7 +14,7 @@ Alla WAV-filer är mono, 48 kHz, 16-bitars signed PCM. Varje ljud har lyssningsg
 
 ## Hämta och installera
 
-Hämta den önskade rösten från den senaste [releasen](../../releases/latest), kontrollera SHA-256-filen och packa upp arkivet i Asterisks svenska ljudkatalog:
+Hämta den önskade rösten från den senaste [releasen](https://github.com/yeager/asterisk-freepbx-swedish/releases/latest), kontrollera SHA-256-filen och packa upp arkivet i Asterisks svenska ljudkatalog:
 
 ```sh
 shasum -a 256 -c asterisk-core-sounds-sv-anton-1.6.1.tar.gz.sha256
