@@ -1225,5 +1225,7 @@
     "vm-tempgreeting2",
     "vm-tempremoved",
     "vm-tmpexists"
-  ]
+  ],
+  "combined_file_count": 1596,
+  "migration_policy": "Add every legacy-only path to Anton; retain every existing Anton path unchanged."
 }

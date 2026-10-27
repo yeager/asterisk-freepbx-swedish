@@ -42,6 +42,8 @@ report = {
     'missing_in_anton': missing,
     'anton_only_count': len(anton_only),
     'anton_only': anton_only,
+    'combined_file_count': len(legacy_names | anton),
+    'migration_policy': 'Add every legacy-only path to Anton; retain every existing Anton path unchanged.',
 }
 args.output.parent.mkdir(parents=True, exist_ok=True)
 args.output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
